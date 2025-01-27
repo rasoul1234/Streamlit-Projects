@@ -1,5 +1,5 @@
-streamlit
-plotly
 pandas
+streamlit
 numpy
-scikit-learn
+altair
+Pillow
