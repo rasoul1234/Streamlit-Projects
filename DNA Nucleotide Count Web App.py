@@ -15,7 +15,7 @@ from PIL import Image
 
 
 
-image = Image.open('C:/Users/MohammadRasoulSahibz/Desktop/Streamlit_Project/DNA.png')
+image = Image.open('https://github.com/rasoul1234/Streamlit-Projects/blob/main/DNA.png')
 st.image(image, use_column_width=True)
 
 st.write("""
